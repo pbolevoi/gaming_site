@@ -1,0 +1,79 @@
+.hero-contact {
+    padding-top: 60px;
+    padding-bottom: 147px;
+    text-align: center;
+}
+
+.hero-contact .were {
+    font-weight: 400;
+    margin-bottom: 0;
+}
+.hero-contact .color {
+    color: #E47500;
+}
+
+.hero-contact h1 {
+    font-size: 33px;
+    font-weight: 600;
+    margin-top: 15px;
+    margin-bottom: 13px;
+}
+
+.hero-contact p {
+    font-weight: 500;
+    margin-bottom: 90px;
+}
+.all-contacts {
+    display: flex;
+    justify-content: space-around;
+    align-items: center;
+    text-align: start;
+    padding-top: 50px;
+    height: 102px;
+}
+
+.all-contacts .follow h5 {
+    font-weight: 400;
+    margin-bottom: 10px;
+    
+}
+.all-contacts .follow-img {
+    max-width: 184px;
+    display: inline;
+}
+
+.all-contacts .follow-img img {
+    width: 55px;
+}
+
+.all-contacts .number {
+    border-left: 1px solid #fff;
+    padding-left: 105px;
+    border-right: 1px solid #fff;
+    padding-right: 105px;
+    height: 102px;
+    display: flex;
+    align-items: center;
+}
+
+.all-contacts .number a {
+    font-size: 20px;
+    font-weight: 300;
+    color: #fff;
+    margin-left: 25px;
+}
+
+.all-contacts .gps {
+    max-width: 370px;
+    display: flex;
+    align-items: center;
+}
+.all-contacts .gps p {
+    font-size: 18px;
+    
+    max-width: 320px;
+    margin-left: 18px;
+}
+.all-contacts .gps img {
+    
+}
